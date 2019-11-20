@@ -2,4 +2,4 @@
 Libraries and demos
 
 1.[基于okhttp3+retrofit2封装的网络库](https://github.com/hushuaijun55/HsjOkHttpDemo)  
-2.[日志打印管理工具](https://github.com/hushuaijun55/LogUtil)
+2.[支持超长文本日志打印的工具类](https://github.com/hushuaijun55/LogUtil)
